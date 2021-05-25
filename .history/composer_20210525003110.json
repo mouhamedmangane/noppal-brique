@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-             "Npl\\Brique\\": "app/"
+             "Npl\\Brique\\": "app/",
             // "Database\\Factories\\": "database/factories/",
             // "Database\\Seeders\\": "database/seeders/"
         }
